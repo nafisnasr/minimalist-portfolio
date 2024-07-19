@@ -2,7 +2,10 @@ minimalist portofolio using reactjs
 project preview:
 
 mainpage:
+
 ![mainpage](https://github.com/user-attachments/assets/6f40183d-c00d-4a40-8171-f85657e00cfb)
+
+
 
 About page:
 
@@ -10,6 +13,9 @@ About page:
 
 
 figma template: https://www.figma.com/design/XzOU6xXf0KqyOvQxUa4a96/Portfolio-Website-Sample-(Community)?t=yHQJtq1bMeYHTRSx-0
+
+
+createdby:@nafisnasr
 
 # Getting Started with Create React App
 
