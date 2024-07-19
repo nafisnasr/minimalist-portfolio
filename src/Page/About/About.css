@@ -1,0 +1,35 @@
+/* About styles */
+.about section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem;
+  margin: 1rem 0rem;
+}
+.about .img_section {
+  align-items: center;
+}
+.about .text_section {
+  align-items: right;
+}
+.about_img {
+  width: 60%;
+}
+.about .text_section p {
+  color: var(--main-gray);
+}
+.about .box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+  padding: 1rem;
+}
+.about .box p {
+  width: 50%;
+  font-size: 0.8rem;
+}
+.about .subbox a {
+  text-decoration: none;
+  color: var(--main-black);
+}

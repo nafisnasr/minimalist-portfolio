@@ -1,0 +1,9 @@
+/* Project Box styles */
+.project-box .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1rem 0rem;
+  margin: 1rem 0rem;
+  border-bottom: 0.1rem solid var(--main-gray);
+}

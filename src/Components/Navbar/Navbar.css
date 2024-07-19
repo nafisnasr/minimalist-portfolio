@@ -1,0 +1,15 @@
+/* navbar styles */
+
+nav .container {
+  position: relative !important;
+}
+.nav-list {
+  position: absolute;
+  right: 0;
+}
+.nav-list .nav-item {
+  margin: 0rem 0.5rem;
+}
+.nav-list .nav-item a {
+  font-weight: 500;
+}
